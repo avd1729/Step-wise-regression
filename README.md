@@ -1,5 +1,5 @@
 # Step-wise-regression
-Certainly! Stepwise regression is a statistical technique used for model selection and variable selection in regression analysis. It aims to identify the subset of predictor variables that best predict the response variable while minimizing overfitting and improving the interpretability of the model. Stepwise regression typically involves two main methods: forward selection and backward elimination.
+Stepwise regression is a statistical technique used for model selection and variable selection in regression analysis. It aims to identify the subset of predictor variables that best predict the response variable while minimizing overfitting and improving the interpretability of the model. Stepwise regression typically involves two main methods: forward selection and backward elimination.
 
 1. Forward Selection:
    - Begin with an empty model (no predictor variables included).
